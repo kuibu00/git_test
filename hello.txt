@@ -8,3 +8,6 @@ hello python world.
 hello python world.
 I am little child
 CQUPT
+分支后第一fix
+分支后第二fix
+我再改一次所谓第三个版本 其中fix_version1和fix_first内容是一样的
